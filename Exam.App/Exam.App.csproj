@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Exam.Business\Exam.Business.csproj" />
+    <ProjectReference Include="..\Exam.Core\Exam.Core.csproj" />
+    <ProjectReference Include="..\Exam.Root\Exam.Root.csproj" />
+  </ItemGroup>
+
+
+</Project>

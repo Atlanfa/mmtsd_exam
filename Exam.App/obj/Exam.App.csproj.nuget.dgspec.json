@@ -1,0 +1,322 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Учеба\\III\\СМТПЗ\\exam\\mmtsd_exam\\Exam.App\\Exam.App.csproj": {}
+  },
+  "projects": {
+    "D:\\Учеба\\III\\СМТПЗ\\exam\\mmtsd_exam\\Exam.App\\Exam.App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Учеба\\III\\СМТПЗ\\exam\\mmtsd_exam\\Exam.App\\Exam.App.csproj",
+        "projectName": "Exam.App",
+        "projectPath": "D:\\Учеба\\III\\СМТПЗ\\exam\\mmtsd_exam\\Exam.App\\Exam.App.csproj",
+        "packagesPath": "C:\\Users\\mc_al\\.nuget\\packages\\",
+        "outputPath": "D:\\Учеба\\III\\СМТПЗ\\exam\\mmtsd_exam\\Exam.App\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mc_al\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Учеба\\III\\СМТПЗ\\exam\\mmtsd_exam\\Exam.Business\\Exam.Business.csproj": {
+                "projectPath": "D:\\Учеба\\III\\СМТПЗ\\exam\\mmtsd_exam\\Exam.Business\\Exam.Business.csproj"
+              },
+              "D:\\Учеба\\III\\СМТПЗ\\exam\\mmtsd_exam\\Exam.Core\\Exam.Core.csproj": {
+                "projectPath": "D:\\Учеба\\III\\СМТПЗ\\exam\\mmtsd_exam\\Exam.Core\\Exam.Core.csproj"
+              },
+              "D:\\Учеба\\III\\СМТПЗ\\exam\\mmtsd_exam\\Exam.Root\\Exam.Root.csproj": {
+                "projectPath": "D:\\Учеба\\III\\СМТПЗ\\exam\\mmtsd_exam\\Exam.Root\\Exam.Root.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Учеба\\III\\СМТПЗ\\exam\\mmtsd_exam\\Exam.Business\\Exam.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Учеба\\III\\СМТПЗ\\exam\\mmtsd_exam\\Exam.Business\\Exam.Business.csproj",
+        "projectName": "Exam.Business",
+        "projectPath": "D:\\Учеба\\III\\СМТПЗ\\exam\\mmtsd_exam\\Exam.Business\\Exam.Business.csproj",
+        "packagesPath": "C:\\Users\\mc_al\\.nuget\\packages\\",
+        "outputPath": "D:\\Учеба\\III\\СМТПЗ\\exam\\mmtsd_exam\\Exam.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mc_al\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Учеба\\III\\СМТПЗ\\exam\\mmtsd_exam\\Exam.Data\\Exam.Data.csproj": {
+                "projectPath": "D:\\Учеба\\III\\СМТПЗ\\exam\\mmtsd_exam\\Exam.Data\\Exam.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Учеба\\III\\СМТПЗ\\exam\\mmtsd_exam\\Exam.Core\\Exam.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Учеба\\III\\СМТПЗ\\exam\\mmtsd_exam\\Exam.Core\\Exam.Core.csproj",
+        "projectName": "Exam.Core",
+        "projectPath": "D:\\Учеба\\III\\СМТПЗ\\exam\\mmtsd_exam\\Exam.Core\\Exam.Core.csproj",
+        "packagesPath": "C:\\Users\\mc_al\\.nuget\\packages\\",
+        "outputPath": "D:\\Учеба\\III\\СМТПЗ\\exam\\mmtsd_exam\\Exam.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mc_al\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Учеба\\III\\СМТПЗ\\exam\\mmtsd_exam\\Exam.Data\\Exam.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Учеба\\III\\СМТПЗ\\exam\\mmtsd_exam\\Exam.Data\\Exam.Data.csproj",
+        "projectName": "Exam.Data",
+        "projectPath": "D:\\Учеба\\III\\СМТПЗ\\exam\\mmtsd_exam\\Exam.Data\\Exam.Data.csproj",
+        "packagesPath": "C:\\Users\\mc_al\\.nuget\\packages\\",
+        "outputPath": "D:\\Учеба\\III\\СМТПЗ\\exam\\mmtsd_exam\\Exam.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mc_al\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Учеба\\III\\СМТПЗ\\exam\\mmtsd_exam\\Exam.Core\\Exam.Core.csproj": {
+                "projectPath": "D:\\Учеба\\III\\СМТПЗ\\exam\\mmtsd_exam\\Exam.Core\\Exam.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Учеба\\III\\СМТПЗ\\exam\\mmtsd_exam\\Exam.Root\\Exam.Root.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Учеба\\III\\СМТПЗ\\exam\\mmtsd_exam\\Exam.Root\\Exam.Root.csproj",
+        "projectName": "Exam.Root",
+        "projectPath": "D:\\Учеба\\III\\СМТПЗ\\exam\\mmtsd_exam\\Exam.Root\\Exam.Root.csproj",
+        "packagesPath": "C:\\Users\\mc_al\\.nuget\\packages\\",
+        "outputPath": "D:\\Учеба\\III\\СМТПЗ\\exam\\mmtsd_exam\\Exam.Root\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mc_al\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Учеба\\III\\СМТПЗ\\exam\\mmtsd_exam\\Exam.Business\\Exam.Business.csproj": {
+                "projectPath": "D:\\Учеба\\III\\СМТПЗ\\exam\\mmtsd_exam\\Exam.Business\\Exam.Business.csproj"
+              },
+              "D:\\Учеба\\III\\СМТПЗ\\exam\\mmtsd_exam\\Exam.Data\\Exam.Data.csproj": {
+                "projectPath": "D:\\Учеба\\III\\СМТПЗ\\exam\\mmtsd_exam\\Exam.Data\\Exam.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
