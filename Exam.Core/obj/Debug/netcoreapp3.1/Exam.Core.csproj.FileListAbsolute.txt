@@ -7,12 +7,3 @@ D:\VS_2017_Freelance\Eugen_Ivanov\Examen\Exam\Exam.Core\obj\Debug\netcoreapp3.1\
 D:\VS_2017_Freelance\Eugen_Ivanov\Examen\Exam\Exam.Core\obj\Debug\netcoreapp3.1\Exam.Core.csproj.CoreCompileInputs.cache
 D:\VS_2017_Freelance\Eugen_Ivanov\Examen\Exam\Exam.Core\obj\Debug\netcoreapp3.1\Exam.Core.dll
 D:\VS_2017_Freelance\Eugen_Ivanov\Examen\Exam\Exam.Core\obj\Debug\netcoreapp3.1\Exam.Core.pdb
-D:\Учеба\III\СМТПЗ\exam\mmtsd_exam\Exam.Core\bin\Debug\netcoreapp3.1\Exam.Core.deps.json
-D:\Учеба\III\СМТПЗ\exam\mmtsd_exam\Exam.Core\bin\Debug\netcoreapp3.1\Exam.Core.dll
-D:\Учеба\III\СМТПЗ\exam\mmtsd_exam\Exam.Core\bin\Debug\netcoreapp3.1\Exam.Core.pdb
-D:\Учеба\III\СМТПЗ\exam\mmtsd_exam\Exam.Core\obj\Debug\netcoreapp3.1\Exam.Core.csprojAssemblyReference.cache
-D:\Учеба\III\СМТПЗ\exam\mmtsd_exam\Exam.Core\obj\Debug\netcoreapp3.1\Exam.Core.AssemblyInfoInputs.cache
-D:\Учеба\III\СМТПЗ\exam\mmtsd_exam\Exam.Core\obj\Debug\netcoreapp3.1\Exam.Core.AssemblyInfo.cs
-D:\Учеба\III\СМТПЗ\exam\mmtsd_exam\Exam.Core\obj\Debug\netcoreapp3.1\Exam.Core.csproj.CoreCompileInputs.cache
-D:\Учеба\III\СМТПЗ\exam\mmtsd_exam\Exam.Core\obj\Debug\netcoreapp3.1\Exam.Core.dll
-D:\Учеба\III\СМТПЗ\exam\mmtsd_exam\Exam.Core\obj\Debug\netcoreapp3.1\Exam.Core.pdb

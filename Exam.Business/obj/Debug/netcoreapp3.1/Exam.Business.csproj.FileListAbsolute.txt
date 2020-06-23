@@ -12,17 +12,3 @@ D:\VS_2017_Freelance\Eugen_Ivanov\Examen\Exam\Exam.Business\obj\Debug\netcoreapp
 D:\VS_2017_Freelance\Eugen_Ivanov\Examen\Exam\Exam.Business\obj\Debug\netcoreapp3.1\Exam.Business.csproj.CopyComplete
 D:\VS_2017_Freelance\Eugen_Ivanov\Examen\Exam\Exam.Business\obj\Debug\netcoreapp3.1\Exam.Business.dll
 D:\VS_2017_Freelance\Eugen_Ivanov\Examen\Exam\Exam.Business\obj\Debug\netcoreapp3.1\Exam.Business.pdb
-D:\Учеба\III\СМТПЗ\exam\mmtsd_exam\Exam.Business\bin\Debug\netcoreapp3.1\Exam.Business.deps.json
-D:\Учеба\III\СМТПЗ\exam\mmtsd_exam\Exam.Business\bin\Debug\netcoreapp3.1\Exam.Business.dll
-D:\Учеба\III\СМТПЗ\exam\mmtsd_exam\Exam.Business\bin\Debug\netcoreapp3.1\Exam.Business.pdb
-D:\Учеба\III\СМТПЗ\exam\mmtsd_exam\Exam.Business\bin\Debug\netcoreapp3.1\Exam.Core.dll
-D:\Учеба\III\СМТПЗ\exam\mmtsd_exam\Exam.Business\bin\Debug\netcoreapp3.1\Exam.Data.dll
-D:\Учеба\III\СМТПЗ\exam\mmtsd_exam\Exam.Business\bin\Debug\netcoreapp3.1\Exam.Data.pdb
-D:\Учеба\III\СМТПЗ\exam\mmtsd_exam\Exam.Business\bin\Debug\netcoreapp3.1\Exam.Core.pdb
-D:\Учеба\III\СМТПЗ\exam\mmtsd_exam\Exam.Business\obj\Debug\netcoreapp3.1\Exam.Business.csprojAssemblyReference.cache
-D:\Учеба\III\СМТПЗ\exam\mmtsd_exam\Exam.Business\obj\Debug\netcoreapp3.1\Exam.Business.AssemblyInfoInputs.cache
-D:\Учеба\III\СМТПЗ\exam\mmtsd_exam\Exam.Business\obj\Debug\netcoreapp3.1\Exam.Business.AssemblyInfo.cs
-D:\Учеба\III\СМТПЗ\exam\mmtsd_exam\Exam.Business\obj\Debug\netcoreapp3.1\Exam.Business.csproj.CoreCompileInputs.cache
-D:\Учеба\III\СМТПЗ\exam\mmtsd_exam\Exam.Business\obj\Debug\netcoreapp3.1\Exam.Business.csproj.CopyComplete
-D:\Учеба\III\СМТПЗ\exam\mmtsd_exam\Exam.Business\obj\Debug\netcoreapp3.1\Exam.Business.dll
-D:\Учеба\III\СМТПЗ\exam\mmtsd_exam\Exam.Business\obj\Debug\netcoreapp3.1\Exam.Business.pdb
